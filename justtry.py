@@ -1,5 +1,5 @@
 import streamlit as st
-print("Hi, Petr!")
+streamlit.text("Hi, Petr!")
 
 streamlit.stop()
 
