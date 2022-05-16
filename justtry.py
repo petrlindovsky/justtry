@@ -1,3 +1,3 @@
-import streamlit as st
-print('Hi, Petr!')
+import streamlit
+streamlit.text('Hi, Petr!')
 
