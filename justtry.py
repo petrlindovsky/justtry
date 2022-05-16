@@ -1,4 +1,8 @@
 import streamlit as st
+print("Hi, Petr!")
+
+streamlit.stop()
+
 from annotated_text import annotated_text
 
 annotated_text(
